@@ -1,4 +1,4 @@
-name: CACHE OFF - Build, Push to docker-hub
+name: Build, Push to docker-hub
 
 on: workflow_dispatch
 
